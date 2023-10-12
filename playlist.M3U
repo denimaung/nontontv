@@ -5,7 +5,7 @@ TV NASIONAL INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV Nasional" group-title="TV Nasional" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV Nasional Indonesia" group-title="TV Nasional Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
@@ -245,9 +245,11 @@ MOVIES
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
