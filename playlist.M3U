@@ -36,9 +36,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR HD
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162138
