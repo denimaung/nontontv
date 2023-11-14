@@ -1202,13 +1202,6 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165105
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298506
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="Sports", beIN SPORTS 1 EN
-http://kingtop10.net:7070/clubdeking2/eh4utvgr/153592
-
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="Sports", beIN SPORTS 2 EN
-http://kingtop10.net:7070/clubdeking2/eh4utvgr/153593
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
