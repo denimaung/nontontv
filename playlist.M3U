@@ -38,8 +38,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR HD
-http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional Indonesia", SCTV
@@ -107,8 +107,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV Nasional Indonesia", MOJI Digital
-http://103.166.27.2:8112/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV Nasional Indonesia", MOJI
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -117,7 +117,7 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional Indonesia", SCTV Digital
-http://103.166.27.2:8112/play/a015/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional Indonesia", Indosiar Digital
 https://mantul.biz.id:443/ekos/748382/5286.ts
@@ -129,6 +129,9 @@ https://mantul.biz.id:443/ekos/748382/5286.ts
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",SindoNews
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+
+#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nmDdr-7BIXMPLMzbe2GK9HXvl3j720vZNg&usqp=CAU", Mentari TV
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298546
 
 
 
@@ -165,10 +168,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u
 
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="TV Local Indonesia",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-
-
-#EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nmDdr-7BIXMPLMzbe2GK9HXvl3j720vZNg&usqp=CAU", Mentari TV
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298546
 
 
 #EXTINF:-1 group-title="TV Local Indonesia",Jogja Istimewa TV
