@@ -517,7 +517,22 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
+#testhbo
 
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="HBO HD-FirstMedia-Chl-305.jpg", HBO id
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="HBO Family HD-FirstMedia-Chl-307.jpg", HBO FAMILY id
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="HBO Hits HD-FirstMedia-Chl-306.jpg", HBO HITS id
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="HBO Signature HD-FirstMedia-Chl-308.jpg", HBO SIGNATURE id
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 
 
