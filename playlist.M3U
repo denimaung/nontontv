@@ -41,7 +41,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional Indonesia", SCTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
@@ -423,15 +422,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 
 
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop 02
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop 03
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="Movies",Flik (K*)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="Movies",Flik
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="Movies",Rock Entertainment
@@ -752,20 +751,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hiburan & Gaya Hidup",Bioskop Indonesia
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264801
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 
 
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="Hiburan & Gaya Hidup",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 
 
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup",CITRA DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="Hiburan & Gaya Hidup",Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -785,7 +784,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -894,8 +893,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
 
 
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup",DAVINCI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -904,6 +901,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+
+EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Hiburan & Gaya Hidup",Dunia Lain
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="Hiburan & Gaya Hidup",Life Style
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/lifestyle.m3u8
 
 
 
@@ -1072,7 +1076,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV Asia
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/157605
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1157,10 +1161,12 @@ http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298504
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak² & Kartun",Cartoonito
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Anak² & Kartun",Dunia Anak
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/duniaanak.m3u8
 
 
 
