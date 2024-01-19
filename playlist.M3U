@@ -265,6 +265,8 @@ MOVIES
 
 
 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+http://toh-users.xyz:8080/42204120/16250164/798445
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -773,7 +775,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 
 
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup",CITRA DRAMA
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="Hiburan & Gaya Hidup",CITRA DRAMA
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
 
 
@@ -807,7 +809,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://hometv.pw/logo/lifestyle/tlc.png",TLC
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 
