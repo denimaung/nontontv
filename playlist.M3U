@@ -130,6 +130,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://hometv.pw/logo/news/sindo_news.png" group-title="TV Nasional Indonesia",SINDO NEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+
+
 
 TV LOKAL INDONESIA
 
@@ -137,15 +145,6 @@ TV LOKAL INDONESIA
 
 
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="TV Local Indonesia", DENS SHOWBIZ
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="TV Local Indonesia", DENS FOOD CHANNEL
-http://210.210.155.37/x6bnqe/s/s38/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="TV Local Indonesia", LEARNING & KNOWLEDGE
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -163,9 +162,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="TV Local Indonesia",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
-
-#EXTINF:-1 group-title="TV Local Indonesia",Jogja Istimewa TV
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV Local Indonesia",Semarang TV
@@ -224,28 +220,40 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="TV Local Indonesia",JTV
+#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-url="http://www.useetv.com" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" group-title="TV Local Indonesia",JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="TV Local Indonesia",JAKTV
+#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="TV Local Indonesia",JAKTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="TV Local Indonesia", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 
 
 #EXTINF:-1  tvg-id="ext" group-title="TV Local Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="TVKU.id" group-title="TV Local Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkto3In.png" group-title="TV Local Indonesia",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-title="TV Local Indonesia",VTV Indonesia 
+https://playlist-coffee.my.id/oxy/vtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV Local Indonesia",Oxygen TV
+https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="TV Local Indonesia",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 
 
@@ -609,6 +617,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="TV Berita Indonesia",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
 
@@ -1309,10 +1320,6 @@ http://rr.dens.tv/h/h09/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-------" group-title="Sports", ONE SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=926161&extension=ts&play_token=1CpygHM1Ws
-
-
 #EXTINF:-1 tvg-logo="______" group-title="Sports", SPORT TV 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021636_&extension=ts
 
@@ -1334,10 +1341,9 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71107
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="Sports",NBA TV
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sports", MU TV
@@ -1351,77 +1357,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
-
-
-
-
-
-GAMING
-
-
-
-
-
-
-
-#gangguan
-#EXTINF:-1 group-title="Gaming" tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg",Dunia Games
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-/https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
-
-
-#EXTINF:-1 group-title="Gaming" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",DensPlay
-http://rr3.dens.tv/s/s101/live.m3u8
-/http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
-
-
-#gangguan
-#EXTINF:-1 tvg-logo="http://bit.ly/EGGnet" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Gaming",Egg Network
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-
-
-
-#EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-chno="801" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Gaming",Pluto TV Gamer
-https://bit.ly/3t0Ut0o
-
-
-#EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-chno="805" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Gaming",IGN
-https://bit.ly/38V3SQf
-
-
-#EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-chno="815" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Gaming",MinecrafTV
-https://bit.ly/38RwGZW
-
-
-#EXTINF:-1 tvg-id="5d51dd5d369acdb278dfb05d" tvg-chno="816" tvg-logo="https://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="Gaming",Gameplay: Roblox
-https://bit.ly/3wSdoNc
-
-
-#EXTINF:-1 tvg-id="5f5bd769ccef5c000781c342" tvg-chno="817" tvg-logo="https://images.pluto.tv/channels/5f5bd769ccef5c000781c342/colorLogoPNG.png" group-title="Gaming",Gameplay: Fortnite
-https://bit.ly/3lNJF1R
-
-
-#EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-chno="818" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Gaming",Gameplay: Sports
-https://bit.ly/3a4zGCJ
-
-
-#EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-chno="819" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Gaming",Gameplay: Call of Duty
-https://bit.ly/38oPNub
-
-
-#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Gaming",Pluto TV E-Sports
-https://bit.ly/3wUSBIQ
-
-
-#EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Gaming",Gaming TV
-https://bit.ly/3MZ583U
-
-
-
-
-
-
-
 
 
 
@@ -1499,6 +1434,84 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
 https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+
+
+
+
+
+
+GAMING
+
+
+
+
+
+
+
+#gangguan
+#EXTINF:-1 group-title="Gaming" tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg",Dunia Games
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+/https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+
+
+#EXTINF:-1 group-title="Gaming" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",DensPlay
+http://rr3.dens.tv/s/s101/live.m3u8
+/http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
+
+
+#gangguan
+#EXTINF:-1 tvg-logo="http://bit.ly/EGGnet" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Gaming",Egg Network
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+
+
+
+#EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-chno="801" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Gaming",Pluto TV Gamer
+https://bit.ly/3t0Ut0o
+
+
+#EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-chno="805" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Gaming",IGN
+https://bit.ly/38V3SQf
+
+
+#EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-chno="815" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Gaming",MinecrafTV
+https://bit.ly/38RwGZW
+
+
+#EXTINF:-1 tvg-id="5d51dd5d369acdb278dfb05d" tvg-chno="816" tvg-logo="https://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="Gaming",Gameplay: Roblox
+https://bit.ly/3wSdoNc
+
+
+#EXTINF:-1 tvg-id="5f5bd769ccef5c000781c342" tvg-chno="817" tvg-logo="https://images.pluto.tv/channels/5f5bd769ccef5c000781c342/colorLogoPNG.png" group-title="Gaming",Gameplay: Fortnite
+https://bit.ly/3lNJF1R
+
+
+#EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-chno="818" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Gaming",Gameplay: Sports
+https://bit.ly/3a4zGCJ
+
+
+#EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-chno="819" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Gaming",Gameplay: Call of Duty
+https://bit.ly/38oPNub
+
+
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Gaming",Pluto TV E-Sports
+https://bit.ly/3wUSBIQ
+
+
+#EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Gaming",Gaming TV
+https://bit.ly/3MZ583U
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
