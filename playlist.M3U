@@ -494,9 +494,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="Movies",Cinemax
-https://link.zozotv.xyz:443/rozila969/abc12345/107
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hTwjV9/20220926-161144.png" tvg-id="CinemaxAsia" tvg-name="Cinemax HD" group-title="Movies",Ciemax
+https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 #testhbo
