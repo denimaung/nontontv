@@ -434,7 +434,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
 
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="Movies",Flik
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Flix_Cinema_Logo.png" group-title="Movies",Flik
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
 
 
@@ -1267,14 +1267,14 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
@@ -1296,13 +1296,14 @@ http://rr.dens.tv/h/h09/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="______" group-title="Sports", SPORT TV 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021636_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="______" group-title="Sports", SPORT TV 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1021638_&extension=ts
-
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sports",Sporttv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sports",Sporttv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Sports",Sporttv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
 
 
@@ -1400,7 +1401,18 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sports",True Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Sports",True Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="Sports",True Premiere 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
 
 
@@ -1427,7 +1439,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="RELIGI", RODJA TV
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 
 #EXTINF:-1 tvg-id="ADiTV.id" group-title="RELIGI",ADiTV
@@ -1505,7 +1517,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 
 #EXTINF:-1 group-title="Gaming" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",DensPlay
 http://rr3.dens.tv/s/s101/live.m3u8
-/http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
+/http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
 
 
 #gangguan
