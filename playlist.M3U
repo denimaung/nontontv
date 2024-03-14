@@ -94,7 +94,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 
 #EXTGRP:TV Nasional Indonesia
-#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji (Usee)
+#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -219,10 +219,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="TV Local Indonesia",JAKTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Jak%20tv.jpg",Jak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 
 
@@ -234,7 +237,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkto3In.png" group-title="TV Local Indonesia",Jawa Pos TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV Local Indonesia",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 
@@ -249,6 +252,92 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:i
 
 
 
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg",Seru! Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+
+#https://btv.co.id/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.ibb.co/q9n0G6v/Btv-hometv.jpg",Balikapan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png",Banjar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://v2.siar.us/banjartv/live/chunks.m3u8
+
+#http://batamtvnews.com/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png",Batam TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+https://cdn.renotv.my.id/tvd/playy.m3u8?id=batamtv
+
+#http://www.elshinta.tv/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ELSHINTA.png",Elshinta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#Dens
+#http://210.210.155.37/qwr9ew/s/s12/index.m3u8
+#https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#https://inspira.tv/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.ibb.co/ZhSmHq5/Inspiratv-hometv.jpg",Inspira TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="NasionalTV.id" tvg-logo="https://i.imgur.com/84svEUM.png",Nasional TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://cdn.renotv.my.id/tvd/playy.m3u8?id=nasionaltv
+https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
+
+#https://www.nusantaratv.com/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://v6.siar.us/nusantaratv/live/chunks.m3u8
+#https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
+
+#https://padangtv.id/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.ibb.co/TwXz4tK/Padang-tv-hometv.jpg",Padang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#https://ythls.onrender.com/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
+https://cdn.renotv.my.id/tvd/playy.m3u8?id=padangtv
+
+#https://radartasikmalaya.tv/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",Radar Tasikmalaya TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#https://v2.siar.us/radartasikmalaya/live/chunks.m3u8?nimblesessionid=506721
+
+#https://ugtv.co.id/
+#EXTGRP:TV Local Indonesia
+#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png",UGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 
@@ -1559,7 +1648,11 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #https://h1.intechmedia.net/intech/ch3.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-
+#https://mqtv.co.id/
+#EXTGRP:RELIGI
+#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
