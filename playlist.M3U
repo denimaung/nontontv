@@ -453,10 +453,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+http://iptvtree.net:8080/F14995/a84c0963/157594
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -541,24 +538,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="Movies",Paramount
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="Movies",Paramount
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/298526
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop 02
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
+http://iptvtree.net:8080/F14995/a84c0963/298527
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop 03
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/298528
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",ID: Etv Bioskop 04
+http://iptvtree.net:8080/F14995/a84c0963/298529
 
-
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Flix_Cinema_Logo.png" group-title="Movies",Flik
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="Movies",Rock Entertainment
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTGRP:Movies
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Flik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd
+#https://iptv.awanteve.xyz/api/stream/restream/use/usee.mpd?id=133&ch=flik
 
 
 
