@@ -42,7 +42,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR Digital
 http://iptvtree.net:8080/F14995/a84c0963/162138
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title=TV Nasional Indonesia",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="TV Nasional Indonesia",INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 
