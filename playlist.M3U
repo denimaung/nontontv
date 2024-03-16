@@ -47,12 +47,25 @@ http://iptvtree.net:8080/F14995/a84c0963/162138
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional Indonesia", SCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#https://www.sctv.co.id/
+#EXTGRP:TV Nasional Indonesia
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=202.158.99.122
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#http://rr2.dens.tv/s/s03/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional Indonesia",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
+#EXTGRP:TV Nasional Indonesia
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional Indonesia",Trans7
@@ -349,6 +362,9 @@ MOVIES
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Movies",Nadoo Korean
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
@@ -501,7 +517,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies" ,GEM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/800px-Gem_TV_logo_2020.png" group-title="Movies" ,GEM
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gem.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -633,6 +649,7 @@ http://iptvtree.net:8080/F14995/a84c0963/196480
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png", HBO SIGNATURE
 http://iptvtree.net:8080/F14995/a84c0963/221948
+
 
 
 
@@ -1000,25 +1017,36 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="Hiburan & Gaya Hidup",Fashion TV
 http://myteve.online:8080/F12232/f23d27c1/298530
-
-
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Hiburan & Gaya Hidup",Dunia Lain
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="Hiburan & Gaya Hidup",Life Style
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/lifestyle.m3u8
+
+#EXTGRP:Hiburan & Gaya Hidup
+#EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png",Pop Musik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+
+#https://www.mncchannels.com/micro/Music-TV
+#EXTGRP:Hiburan & Gaya Hidup
+#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/nUVl7tS.png",Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 
 
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo-light-300x110.png" group-title="Hiburan & Gaya Hidup",TV Tempo
+https://srtv.my.id/vd/play.m3u8?id=7946&type=hls
 
 
 
@@ -1668,6 +1696,66 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+
+
+
+
+
+<======================== Malaysia ==========================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1732
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroCitra.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
+http://50.7.234.10:8278/Citra/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/611%281%29.png/revision/latest?cb=20200521080605" , Astro Ceria 
+http://50.7.234.10:8278/Ceria/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TV Sarawak
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1730
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo=
+
+
+
+
+
+
 
 
 
