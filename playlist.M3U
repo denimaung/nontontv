@@ -1026,11 +1026,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
 
 
 
-#EXTGRP:Hiburan & Gaya Hidup
-#EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png",Pop Musik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-
 #https://www.mncchannels.com/micro/Music-TV
 #EXTGRP:Hiburan & Gaya Hidup
 #EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/nUVl7tS.png",Music TV
@@ -1041,12 +1036,9 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo-light-300x110.png" group-title="Hiburan & Gaya Hidup",TV Tempo
-https://srtv.my.id/vd/play.m3u8?id=7946&type=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Hiburan & Gaya Hidup",TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 
 
