@@ -619,6 +619,25 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca
 https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg", HBO
+http://iptvtree.net:8080/F14995/a84c0963/197972
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png", HBO FAMILY
+http://iptvtree.net:8080/F14995/a84c0963/197055
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Hits.png", HBO HITS
+http://iptvtree.net:8080/F14995/a84c0963/196480
+
+
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png", HBO SIGNATURE
+http://iptvtree.net:8080/F14995/a84c0963/221948
+
+
+
+
+
 
 
 TV BERITA INDONESIA
