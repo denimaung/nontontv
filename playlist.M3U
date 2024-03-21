@@ -109,7 +109,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 
 #EXTGRP:TV Nasional Indonesia
-#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji
+#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji usetv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
