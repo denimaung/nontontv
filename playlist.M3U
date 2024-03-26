@@ -270,13 +270,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:i
 
 
 
-#EXTGRP:TV Local Indonesia
-#EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
 
 #EXTGRP:TV Local Indonesia
 #EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg",Seru! Channel
@@ -876,7 +869,12 @@ HIBURAN & GAYA HIDUP
 
 
 
-
+#EXTGRP:Hiburan & Gaya Hidup
+#EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://dl.dropboxusercontent.com/s/fldtbe5kvdc3k75/axstvnow.png",  aXs tv now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
@@ -922,7 +920,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="Hiburan & Gaya Hidup",Citra Bioskop
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bmi59ney1ym4ehz8kjy1/Citra-bioskop.jpeg?rlkey=fzi3l47x6wgesjwdhc58hoyaj&dl=0" tvg-id="CitraBioskop.id" group-title="Hiburan & Gaya Hidup",Citra Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 
 #EXTGRP:Hiburan & Gaya Hidup
@@ -1597,33 +1595,38 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 1
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=263162&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 2
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=263164&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 3
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=263166&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 4
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=263168&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 5
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=263169&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Sports" tvg-group-title="Sports",Arena Sport 6
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=860052&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="ArenaSport1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbGPGnju04D5f3KvNxX6fzBIWeKtmqT4Jtg&usqp=CAU" group-title="Sports",Arena Sport 1x2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 tvg-id="ArenaSportFight" tvg-name="Arena Sport Fight" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsGHWT0loEMvf2TlhrZuUU9n_Rtv7IMLtAQ&usqp=CAU" group-title="Sports",Arena Sport Fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
+#EXTINF:-1 tvg-id="ArenaSportEpl" tvg-name="Arena Sport Premier league" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="Sports",Arena Sport Premier league
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="Sports", Arena Sport 7
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=860053&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena7.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="Sports", Arena Sport 8
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=860054&extension=ts&play_token=yK7Ppvy2j
-
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Sports", ARENA SPORT PREMIUM 1
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=674862&extension=ts&play_token=yK7Ppvy2j
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Sports", ARENA SPORT PREMIUM 2
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=674863&extension=ts&play_token=yK7Ppvy2j
-
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Sports", ARENA SPORT PREMIUM 3
-http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=674864&extension=ts&play_token=yK7Ppvy2j
+https://webtvstream.bhtelecom.ba/hls6/arena8.mpd
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro SuperSport 1
