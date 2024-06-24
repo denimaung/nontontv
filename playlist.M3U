@@ -1387,9 +1387,12 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&exten
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnhn867.png" group-title="Anak² & Kartun", Indi Kids
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indikids.m3u8
+#https://www.indihometv.com/livetv/indikids
+#EXTGRP:Anak² & Kartun
+#EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/gnhn867.png",IndiKids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="Anak² & Kartun", My Kids
@@ -1419,8 +1422,13 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Anak² & Kartun",Dunia Anak
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/duniaanak.m3u8
+#https://www.transvision.co.id/
+#EXTGRP:Anak² & Kartun
+#EXTINF:0 tvg-id="DuniaAnak.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Anak.jpg",Dunia Anak (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
 
 #EXTGRP:Anak² & Kartun
