@@ -298,7 +298,7 @@ TV LOKAL INDONESIA
 #EXTGRP:TV Local Indonesia
 #EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.ibb.co/D5DkjBK/Aditv-hometv.jpg",ADi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://v2.siar.us/aditv/livestream/chunks.m3u8
+#https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -334,32 +334,17 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_960
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-
-#EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Maluku
-https://ott-balancer.tvri.go.id/live/eds/Maluku/hls/Maluku-avc1_1500000=10005-mp4a_96000=20001.m3u8
-
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Nusa Tenggara Barat
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-
-#EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Yogyakarta 
-https://ott-balancer.tvri.go.id/live/eds/Yogyakarta/hls/Yogyakarta-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Bali
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
 
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kalimantan Selatan
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Sumatera Barat
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
-
-
 
 #EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
@@ -432,7 +417,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png",Banjar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-https://v2.siar.us/banjartv/live/chunks.m3u8
+#https://v2.siar.us/banjartv/live/chunks.m3u8
 
 #http://batamtvnews.com/
 #EXTGRP:TV Local Indonesia
@@ -480,12 +465,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #https://ythls.onrender.com/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
 https://cdn.renotv.my.id/tvd/playy.m3u8?id=padangtv
 
-#https://radartasikmalaya.tv/
-#EXTGRP:TV Local Indonesia
-#EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",Radar Tasikmalaya TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#https://v2.siar.us/radartasikmalaya/live/chunks.m3u8?nimblesessionid=506721
 
 #https://ugtv.co.id/
 #EXTGRP:TV Local Indonesia
@@ -1986,13 +1965,11 @@ RELIGI
 https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
 
 
-#EXTGRP:RELIGI
-#EXTINF:0 tvg-id="madinahtv.sa" tvg-logo="https://2.bp.blogspot.com/-7xJ__ouF6os/VlZlmiGX23I/AAAAAAAAbr8/nqwBcUA00qA/s1600/saudi-sunnah-logo.png",Madinah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://dl.dropboxusercontent.com/s/m50fs6hl26yzgh4/madinah.png" group-title="RELIGI",Madinah TV
+https://flv.intechmedia.net/live/ch13.m3u8|User-Agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Muslim%20HD-FirstMedia-Chl-410.jpg" group-title="RELIGI",Citra Muslim
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="RELIGI", RODJA TV
@@ -2051,22 +2028,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd|referer=htt
 #EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="RELIGI",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
-
-
 #https://live.alwafatarim.tv/
 #EXTGRP:RELIGI
 #EXTINF:0 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png",Al Wafa Tarim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
-
-#https://madani.tv/
-#EXTGRP:RELIGI
-#EXTINF:0 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png",Madani TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-
 
 #https://www.surautv.id/
 #EXTGRP:RELIGI
@@ -2081,8 +2047,17 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+https://flv.intechmedia.net/live/ch2.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
+https://flv.intechmedia.net/live/ch4.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH%20TV.jpg",hijrah TV
+https://flv.intechmedia.net/live/ch8.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SUNNAH TV
+https://flv.intechmedia.net/live/ch17.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
 
 
