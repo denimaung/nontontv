@@ -868,7 +868,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 
 
 
@@ -1308,7 +1308,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd|ref
 https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|referer=https://www.visionplus.id
 
 #EXTGRP:Hiburan & Gaya Hidup
-#EXTINF:-1 tvg-id="afn.id" tvg-logo="https://hometv.pw/logo/lifestyle/afn.png",Asian Food Network
+#EXTINF:-1 tvg-id="afn.id" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
@@ -1433,7 +1433,7 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8fwuy4ua2inlare/densfood.png" group-title="Hiburan & Gaya Hidup", Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1738,7 +1738,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
 
 #EXTGRP:Anak² & Kartun
@@ -1746,7 +1746,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee_dash/manifest.mpd
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 
 
 #EXTGRP:Anak² & Kartun
