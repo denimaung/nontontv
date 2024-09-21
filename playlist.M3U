@@ -169,10 +169,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="TV Nasional Indonesia",MOJI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011
-http://iptvmedia.live:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/298550.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="TV Nasional Indonesia", MOJI TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 
 Indihome chanel
@@ -1490,7 +1489,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+https://cdn09jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1513,12 +1512,24 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|r
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JmoCkJe.png" group-title="Pengetahuan Umum",Curiosity Channel
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="Pengetahuan Umum"  tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", DISCOVERY Channel
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Pengetahuan Umum",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
+#EXTINF:-1 group-title="Pengetahuan Umum"  tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", DISCOVERY Channel hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://iili.io/JmoC8Ob.png" group-title="Pengetahuan Umum",Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#EXTINF:-1 group-title="Pengetahuan Umum" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://dl.dropboxusercontent.com/s/dhokqih7oixf7z1/denslearning.png", LEARNING & KNOWLEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1544,9 +1555,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoCha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
+#https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Pengetahuan Umum", LOVE NATURE 4K
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="Pengetahuan Umum", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #https://www.transvision.co.id/channel/lingua.html
@@ -1562,23 +1573,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
 #EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://dl.dropbox.com/scl/fi/qb2yulbwkwllxm7skeiu4/Global-trekker.jpeg?rlkey=qavgisctg9kzup3vv8shzx2x6&dl=0" group-title="Pengetahuan Umum", Global Trekker
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 
-
 #EXTINF:0 group-title="Pengetahuan Umum" tvg-logo="https://github.com/Qingtvnew/test/raw/main/National-Geographic.png" ,National Geograpic
 http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
 
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://github.com/Qingtvnew/test/raw/main/natgeowild.png", Nat Geo Wild
 http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8ejeuz7bo3mx8r9uxyq2n/Discoveryasia.jpeg?rlkey=2bg11x88zp1qxyuhzlk6kas81&dl=0" group-title="Pengetahuan Umum", DISCOVERY Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2t1jkwh42qdsg5ar066bc/DiscoSci.png?rlkey=mcpyf0t54z6hvlclilmcqwuo1&dl=0" group-title="Pengetahuan Umum", Discovery SCI
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yaa8ie58g3ztylt/Screenshot_20230214_202558_Dropbox.jpg" group-title="Pengetahuan Umum",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
@@ -1592,7 +1591,7 @@ ANAK2 & KARTUN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD.png" group-title="Anak² & Kartun",Cartoonito
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4NNf2m/cartoonito.png" group-title="Anak² & Kartun",Cartoonito
 https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 
@@ -1688,15 +1687,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Anak² & Kartun",Disney Channel
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+$http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="Anak² & Kartun",Disney Junior
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+#http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3fde515-2cc6-4b07-98ac-24bcbc3622b2/d87n9g6-bf0661ee-8892-4f80-a300-4b425db26ee5.png/v1/fill/w_1032,h_774/disney_xd_logo__lde_s_next_idea__by_decatilde_d87n9g6-pre.png" tvg-name="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Anak² & Kartun",Disney XD
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
+#http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
 
 
 
@@ -1757,17 +1756,34 @@ https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
-#EXTINF:-1 group-title="Anak² & Kartun"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="Anak² & Kartun", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluecartoonnetworkro/Manifest.mpd
 
 
 
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="Anak² & Kartun" , Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="Anak² & Kartun" , Baby Shark TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="Anak² & Kartun", DISNEY CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="Anak² & Kartun", DISNEY JR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
 
 
 
@@ -1779,6 +1795,16 @@ SPORTS
 
 
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="Sports",BeinSport EURO 2024
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://i.ibb.co.com/vXjhSnL/euro.jpg" group-title="Sports",CA | TSN 1 HD EURO
+http://cord-cutter.net:8080/n8buxG/222085/57292
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/1600px-Usee_Sports.png" group-title="Sports", Usee Sport 1
