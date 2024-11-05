@@ -78,11 +78,11 @@ https://canale.mizhls.ru/lb/premium1/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo="http://omzolix.elementfx.com/omah/sctv.png" group-title="TV Nasional Indonesia",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV Nasional Indonesia",SCTV (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://omzolix.elementfx.com/omah/sctv.png" group-title="TV Nasional Indonesia",SCTV Dens
