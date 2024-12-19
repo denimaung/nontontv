@@ -1118,11 +1118,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|refer
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie
-https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd|referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Hiburan & Gaya Hidup",TV5 Monde Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-name="" tvg-country="ID" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde Asie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1144,7 +1148,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-DuniaLain.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8fwuy4ua2inlare/densfood.png" group-title="Hiburan & Gaya Hidup", Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
