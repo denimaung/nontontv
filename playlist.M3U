@@ -979,7 +979,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 
 #EXTINF:-1 group-title="Hiburan & Gaya Hidup"  tvg-logo="https://dl.dropbox.com/scl/fi/qk861erreusyp55a5g7qq/Eat-go.jpeg?rlkey=3bhd90pvl4ugil8xxm03oh3cm&dl=0", Eat & Go
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-EatAndGo.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
