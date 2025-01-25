@@ -1655,7 +1655,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="Sports",NBA TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="Sports", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
