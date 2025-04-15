@@ -1097,11 +1097,11 @@ Hbo cubmu
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNpFz93R9j5x0A1BzdwNM7w1aRjZawF5iHH-kSHgFZdeXF1L0nSkU5qPHbC2W4DX7L8ZeKODNVsYCNIT-jolR4LQA5y6YquJm1lW9h8FnNjgGTVvk9rDE2s_LjmW9wL3T-OboK6aRJ2Oo/s479-Ic42/Flik%252520TV.png" group-title="Movies",FLIK
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Flik.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 
 
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://dl.dropbox.com/scl/fi/o4bua2l1bvbumzh9ayym3/Hitsnow.jpg?rlkey=xrjhmzd58v42r5mcjbe1czl7s&dl=0", HITS NOW
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/02ff19dlylt5by7/images%20%281%29.png" group-title="Movies", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -1350,7 +1350,7 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Chines
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-BioskopIndonesia.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Hiburan & Gaya Hidup" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1497,7 +1497,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-DuniaLain.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298524
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8fwuy4ua2inlare/densfood.png" group-title="Hiburan & Gaya Hidup", Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1604,7 +1604,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Pengetahuan Umum" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
-https://cempedak-cdn-fly.mncnow.id/live/eds/History/sa_dash/History.mpd|referer=https://www.visionplus.id
+#https://cempedak-cdn-fly.mncnow.id/live/eds/History/sa_dash/History.mpd|referer=https://www.visionplus.id
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162519
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -1685,8 +1686,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
+#https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1756,7 +1757,7 @@ $http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&exte
 #EXTINF:-1 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/gnhn867.png",IndiKids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298539
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="Anak² & Kartun", My Kids
@@ -1788,7 +1789,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264753
 
 
 #EXTGRP:Anak² & Kartun
@@ -1796,7 +1797,7 @@ https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264750
 
 
 #EXTGRP:Anak² & Kartun
