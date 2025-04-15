@@ -2134,7 +2134,7 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Motorsport" tvg-logo="https://i.imgur.com/lhRJvvV.png" group-title="Qingsports",S Motorsport
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Motorsport" tvg-logo="https://i.imgur.com/lhRJvvV.png" group-title="Sports",S Motorsport
 http://supersonictv.live:8080/227058/272105/86879
 
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
