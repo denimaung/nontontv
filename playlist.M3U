@@ -17,20 +17,17 @@ TV NASIONAL INDONESIA
 
 #EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TV Nasional Indonesia",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
+#http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id/roni/jimbaran/8
 
 
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 1
-#http://xtv.ooo:8080/0966717777/0966717777/350972
-#EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 2
-#http://iptvtree.net:8080/e891d265/89d742c3/162138
-
-
-
+#EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TV Nasional Indonesia",INDOSIAR 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
