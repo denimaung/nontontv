@@ -26,7 +26,7 @@ TV NASIONAL INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 #https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
-https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
