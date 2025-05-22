@@ -50,11 +50,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZKfh5N9/BRI-LIGA1.jpg" group-title="TV Nasional Indonesia",Indosiar BRI Liga Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -523,10 +523,6 @@ TV LOKAL INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://v2.siar.us/aditv/livestream/chunks.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="TV Local Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV Indonesia
-http://202.147.193.244/live/eds/DAAITV/sa_dash/DAAITV.mpd
 
 #EXTINF:-1 group-title="TV Local Indonesia",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -1075,6 +1071,12 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #EXTINF:0 group-title="Movies" tvg-logo="https://dl.dropbox.com/s/ywtjgv4qf4u4rdb/images%20%283%29.jpeg", FOX
 #https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Movies",AXN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 
+https://atemeshield1-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 
 TV BERITA indonesia
