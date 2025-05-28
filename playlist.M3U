@@ -2176,7 +2176,9 @@ https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.m
 
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://dl.dropboxusercontent.com/s/m50fs6hl26yzgh4/madinah.png" group-title="RELIGI",Madinah TV
-https://flv.intechmedia.net/live/ch13.m3u8|User-Agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Muslim%20HD-FirstMedia-Chl-410.jpg" group-title="RELIGI",Citra Muslim
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
