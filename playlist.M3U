@@ -1,14 +1,8 @@
-#promo internet murah
 
-#EXTINF:-1 group-title="Promo internet murah" tvg-logo="https://github.com/denimaung/logo/blob/main/images%20(5).png?raw=true",Info wa 089502354747
-#https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
-#https://ia803205.us.archive.org/24/items/proyek-06-24-1-sd-360p-medium-fr-30_202406/Proyek_06-24%281%29_SD 360p_MEDIUM_FR30.mp4
 
 
 
 TV NASIONAL INDONESIA
-
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 #indosiar
 
@@ -1101,13 +1095,13 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies",eTvBioskop1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
+#https://WahyuIPTV.short.gy/ETVBioskop1.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="Movies",eTvBioskop2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
+#https://WahyuIPTV.short.gy/ETVBioskop2.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="Movies", eTvBioskop3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
+#https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="Movies", eTvBioskop4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
+#https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png" group-title="Movies",DuniaSinema
 https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
@@ -2395,6 +2389,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live31.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
 
 
 
