@@ -21,7 +21,7 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
+http://vipboacnn.top:8080/VIP0199169358094917/21693580949/34327
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -2053,6 +2053,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live31.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
 
 
 
