@@ -19,7 +19,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
